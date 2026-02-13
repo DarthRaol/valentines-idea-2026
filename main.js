@@ -1,5 +1,5 @@
     // 🔴 SET THE CORRECT DATE HERE (YYYY-MM-DD)
-    const EXPECTED_DATE = "2026-12-21";
+    const EXPECTED_DATE = "2025-12-21";
 const bgMusic = document.getElementById("bgMusic");
     const dateInput = document.getElementById("dateInput");
     const confirmBtn = document.getElementById("confirmBtn");
